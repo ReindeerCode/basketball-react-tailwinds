@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://images.template.net/wp-content/uploads/2017/01/04120314/Best-Basketball-Logo-Designs.jpg?width=450">
+  <a href="./public/Best-Basketball-Logo-Designs.jpg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
