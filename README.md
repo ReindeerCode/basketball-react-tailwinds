@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="./public/Best-Basketball-Logo-Designs.jpg">
-    <img src="/public/Best-Basketball-Logo-Designs.jpg" alt="Logo" width="80" height="80">
+    <img src="/public/Best-Basketball-Logo-Designs.jpg" alt="Logo" width="584" height="331">
   </a>
 
   <h3 align="center">Basketball-react-tailwind Project</h3>
