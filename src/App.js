@@ -7,7 +7,7 @@ export default function App() {
     <>
       <Router>
         <Routes>
-          <Route exact path="/" component={Landing} />
+          <Route path="/" component={<Landing />} exact />
         </Routes>
       </Router>
     </>
