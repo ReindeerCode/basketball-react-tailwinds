@@ -1,13 +1,13 @@
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Landing from "./Pages/LandingPage";
+import Landing from "./pages/landing/landing";
 
 export default function App() {
   return (
     <>
       <Router>
         <Switch>
-          <Route path="/" component={Landing} />
+          <Route exact path="/" component={Landing} />
         </Switch>
       </Router>
     </>
